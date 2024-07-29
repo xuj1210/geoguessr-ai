@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./TinyViT-main/TinyViT-main/models",
+        "./TinyViT-main/TinyViT-main"
+    ]
+}
